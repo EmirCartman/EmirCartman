@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EmirCartman
+- 👀 I’m interested in Back-End
+- 🌱 I’m currently learning Node.js
